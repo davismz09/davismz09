@@ -2,16 +2,16 @@
 
 ---
 
-### Sobre mí
+### About Me
 
-¡Hola! Soy José David Mite Zambrano, un apasionado desarrollador de software con experiencia en administración de sistemas y desarrollo web. Actualmente, estoy cursando una carrera en Desarrollo de Software y buscando oportunidades para seguir creciendo profesionalmente en un entorno dinámico.
+Hello! I'm José David Mite Zambrano, a passionate software developer with experience in system administration and web development. Currently, I'm pursuing a degree in Software Development and seeking opportunities to continue growing professionally in a dynamic environment.
 
-- 💼 Experiencia en administración de sistemas y desarrollo web.
-- 🌱 Actualmente aprendiendo Desarrollo de Software.
-- 👯 Busco colaborar en proyectos interesantes y desafiantes.
-- 📫 Puedes contactarme en [dav.mite0907@gmail.com](mailto:dav.mite0907@gmail.com).
-- 🔗 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/davismz09/).
+- 💼 Experienced in system administration and web development.
+- 🌱 Currently learning Software Development.
+- 👯 Looking to collaborate on interesting and challenging projects.
+- 📫 You can reach me at [dav.mite0907@gmail.com](mailto:dav.mite0907@gmail.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/davismz09/).
 
-¡Espero conectar contigo y contribuir juntos a proyectos emocionantes!
+I look forward to connecting with you and contributing together to exciting projects!
 
 ---
